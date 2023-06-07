@@ -1,4 +1,4 @@
-# Voc-semantic-segmentation
+# Voc-semantic-segmentation-using-pytorch
 - model: 
   - backbone: Resnet101
   - Head: Unet
